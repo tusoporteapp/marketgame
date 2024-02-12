@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://gameplay.pages.dev/g/cuttherope.html</loc>
+        <loc>https://marketgame.pages.dev/g/cuttherope.html</loc>
     </url>
     <url>
-        <loc>https://gameplay.pages.dev/g/toiletrun.html</loc>
+        <loc>https://marketgame.pages.dev/g/toiletrun.html</loc>
     </url>
     <url>
-        <loc>https://gameplay.pages.dev/</loc>
+        <loc>https://marketgame.pages.dev/g/toiletrun-1.html</loc>
+    </url>
+    <url>
+        <loc>https://marketgame.pages.dev/</loc>
     </url>
 </urlset>
